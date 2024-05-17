@@ -23,6 +23,8 @@ This is a maintenance control system.
 - npx shadcn-ui@latest add label
 - npx shadcn-ui@latest add dropdown-menu
 
+- npm install zod
+
 - npm install lucide-react
 
 - npm install framer-motion
@@ -30,8 +32,6 @@ This is a maintenance control system.
 - npm install react-dropzone
 
 - npm install uploadthing @uploadthing/react
-
-- npm install zod
 
 - npm install prisma @prisma/client
     - npx prisma init
