@@ -3,7 +3,7 @@ import { MaxWidthWrapper } from "@/components/MaxWidthWrapper";
 import { Phone } from "@/components/Phone";
 import { Reviews } from "@/components/Reviews";
 import { buttonVariants } from "@/components/ui/button";
-import { UseCase } from "@/components/UseCase";
+import NameLogo from "@/components/NameLogo";
 import { ArrowRight, Check, Star } from "lucide-react";
 import Link from "next/link";
 
@@ -21,7 +21,7 @@ export default function Home() {
                 Your image on a <span className="bg-primary px-2 text-white">Custom</span> Phone Case
               </h1>
               <p className="mt-8 text-lg lg:pr-10 max-w-prose text-center lg:text-left text-balance md:text-wrap">
-                Capture yoru favorite memories with your own, <span className="font-semibold">one-of-one</span> phone case. <UseCase /> allows you to protect your memories, not just your phone case.
+                Capture yoru favorite memories with your own, <span className="font-semibold">one-of-one</span> phone case. <NameLogo /> allows you to protect your memories, not just your phone case.
               </p>
 
               <ul className="mt-8 space-y-2 text-left font-medium flex flex-col item-center sm:items-start">
