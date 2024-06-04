@@ -1,6 +1,8 @@
 # ServiceWorker
 
-This is a maintenance control system.
+Project starting to be rewrote with Adonis + Inertia.
+
+<!-- This is a maintenance control system.
 
 - npx create-next-app@latest
     - TypeScript: yes.
@@ -42,4 +44,4 @@ This is a maintenance control system.
 
 - npm install react-rnd
 
-- npm install @headlessui/react
+- npm install @headlessui/react -->
